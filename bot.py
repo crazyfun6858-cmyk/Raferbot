@@ -3,15 +3,15 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import json
 import os
 
-TOKEN = "8785029829:AAG_fMM9KUx53QQlghr2klE6v9AbhiAQFuA"
+TOKEN = "8629584902:AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zU"
 
 # ---------- ADMINS ----------
 ADMIN_IDS = [7156406347]  # Dusrya admin chi ID ithe taka
 
 ADMIN_USERNAME = "Taskman96"
 
-FREE_CHANNEL_LINK = "https://t.me/+T36niNI2r5xhNmM9"
-PREMIUM_CHANNEL_LINK = "https://t.me/+gu10m2ki2zplZTNl"
+FREE_CHANNEL_LINK = "https://t.me/+juPd-5z2o8xkMzU1"
+PREMIUM_CHANNEL_LINK = "https://t.me/+v2lHS_eO-OxlY2Y1"
 
 QR_FILE = "qr.png"
 USERS_FILE = "users.json"
