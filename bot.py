@@ -6,9 +6,9 @@ import os
 TOKEN = "8785029829:AAG_fMM9KUx53QQlghr2klE6v9AbhiAQFuA"
 
 # ---------- ADMINS ----------
-ADMIN_IDS = [7156406347, 8030618244]  # Dusrya admin chi ID ithe taka
+ADMIN_IDS = [7156406347]  # Dusrya admin chi ID ithe taka
 
-ADMIN_USERNAME = "@Taskman96"
+ADMIN_USERNAME = "Taskman96"
 
 FREE_CHANNEL_LINK = "https://t.me/+T36niNI2r5xhNmM9"
 PREMIUM_CHANNEL_LINK = "https://t.me/+gu10m2ki2zplZTNl"
