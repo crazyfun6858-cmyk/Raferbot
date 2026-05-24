@@ -6,7 +6,7 @@ import os
 TOKEN = "8629584902:AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zU"
 
 # ---------- ADMINS ----------
-ADMIN_IDS = [7156406347]  # Dusrya admin chi ID ithe taka
+ADMIN_IDS = [7156406347,8850576076]  # Dusrya admin chi ID ithe taka
 
 ADMIN_USERNAME = "Taskman96"
 
